@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Unleashing the Potential of Mamba</h1>
+<h1>FASD</h1>
 <h3>
 Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation</h3>
 <strong>Accepted to RAL</strong>
