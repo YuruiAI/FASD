@@ -20,5 +20,33 @@ Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using 
 <!-- * **`24 , 2025`:** We reorganize code for better readability. Code & Models are released. -->
 <!-- * **`Sep. 7th, 2025`:** We reorganize code for better readability. Code & Models are released. -->
 * **`Aug. 31, 2025`:** We release the FASD paper on [arXiv](https://arxiv.org/pdf/2409.11018?). 
-* **`Aug. 08, 2026`:** FASD is accepted to RAL!
+* **`Aug. 08, 2026`:** FASD is accepted to RAL 2026!
 * **`AUG. 20, 2026`:** FASD is published at RAL on IEEE Open Access [Paper](https://ieeexplore.ieee.org/document/11662378).
+
+
+## Getting Started
+- [Preparation of DistillDrive environment](docs/install.md)
+- [Getting started from nuScenes environment preparation](docs/preparedata.md)
+- [Training and Evaluation](docs/train.md)
+
+## Video Demo on Real-world Application
+https://huggingface.co/RuiYuStudying/DistillDrive/blob/main/demo.mp4
+
+## Acknowledgement
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+- [DSVT](https://github.com/Haiyang-W/DSVT)
+- [VoxelMamba](https://github.com/gwenzhang/Voxel-Mamba)
+
+
+## Citation
+If you find FASD is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+
+```bibtex
+@article{yu2026unleashing,
+  title={Unleashing the potential of mamba: Boosting a lidar 3d sparse detector by using cross-model knowledge distillation},
+  author={Yu, Rui and Zhao, Runkai and Li, Jiagen and Zhao, Qingsong and Yan, Huaicheng and Wang, Meng},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  publisher={IEEE}
+}
+```
