@@ -30,7 +30,6 @@ Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using 
 - [Training and Evaluation](docs/train.md)
 
 ## Video Demo on Real-world Application
-https://huggingface.co/RuiYuStudying/DistillDrive/blob/main/demo.mp4
 
 ## Acknowledgement
 - [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
