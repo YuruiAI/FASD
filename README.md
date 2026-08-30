@@ -8,7 +8,7 @@ Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using 
 
 <sup>1</sup> East China University of Science and Technology， <sup>2</sup> The University of Sydney, <sup>3</sup> Fudan University
 
-[![FASD](https://img.shields.io/badge/IEEE-FASD-00629B.svg?logo=ieee)](https://ieeexplore.ieee.org/document/11662378)
+[![FASD](https://img.shields.io/badge/%20-FASD-00629B.svg?logo=ieee&logoSize=auto&logoWidth=12&labelColor=555&logoColor=white)](https://ieeexplore.ieee.org/document/11662378)
 [![FASD](https://img.shields.io/badge/Paper-FASD-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2409.11018?)&nbsp;
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-FASD-yellow)](https://huggingface.co/RuiYuStudying/FASD/tree/main)&nbsp;
 
