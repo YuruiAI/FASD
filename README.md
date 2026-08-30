@@ -2,7 +2,7 @@
 <h1>FASD</h1>
 <h3>
 Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation</h3>
-<strong>Accepted to RAL</strong>
+<strong>Accepted to RAL 2026</strong>
 
 [Rui Yu](https://github.com/YuruiAI)<sup>1</sup>, [Runkai Zhao](https://scholar.google.com/citations?user=JvoODTgAAAAJ&hl=zh-CN)<sup>2</sup>, [Jiagen Li](https://scholar.google.com/citations?hl=zh-CN&user=_ZKWq1AAAAAJ)<sup>1</sup>, [Qingsong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ux-dlywAAAAJ)<sup>3</sup>, [Huaicheng Yan](https://scholar.google.com/citations?user=FDNcY_MAAAAJ&hl=zh-CN)<sup>1</sup>, [Meng Wang](https://scholar.google.com/citations?user=_abJw5cAAAAJ&hl=zh-CN)<sup>1</sup>, 
 
