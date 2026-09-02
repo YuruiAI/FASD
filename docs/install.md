@@ -1,5 +1,11 @@
 # Installation
 
+### Set up a virtual environment for FASD
+```bash
+conda create -n FASD python=3.8 -y
+conda activate FASD
+```
+
 ### Requirements
 All the codes are tested in the following environment:
 * Linux (tested on Ubuntu 14.04/16.04/18.04/20.04/21.04)
